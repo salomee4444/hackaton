@@ -1,0 +1,7 @@
+flask>=2.0
+gunicorn
+pandas
+scikit-learn
+joblib
+numpy
+plotly
